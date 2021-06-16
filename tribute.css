@@ -1,0 +1,62 @@
+  /* Styling the body element
+  like body color and margin */
+
+  body {
+    background-color: #F5ABC9;
+    margin-top: 0;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 5%;
+  }
+
+  /* Styling the Title and giving
+  shadow to the title */
+  #title {
+    text-align: center;
+    text-shadow: 5px 5px 10px #B6C9F0;
+    font-size: 7vh;
+  }
+
+  /* Setting width and display
+  type of image */
+  img {
+    display:inherit;
+    width: 20%;
+    margin-right: 0;
+  }
+
+  /* Setting font color and font
+  size of the image-caption */
+  #caption {
+    font-size: 17px;
+    font-family: Gill Sans;
+    color: black;
+    margin-left: 0;
+  }
+
+  /* Styling the content of the page like-
+  padding, font-soze, font color etc.*/
+  div#tribute-data {
+    background-color: #E93B81;
+    border-radius: 50px;
+    box-shadow:12px 12px 16px 0 rgba(0, 0, 0, 0.25),
+    -8px -8px 12px 0 rgba(255, 255, 255, 0.3);
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+  }
+
+  /* Styling the title of the content */
+  h1.title-APJ {
+    font-size: 35px;
+    color: #B6C9F0;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+  }
+
+  /* Styling the link provided at the end */
+  #tribute-link {
+    text-decoration: none;
+    color: black;
+  }
